@@ -4,7 +4,7 @@ from telegram import ReplyKeyboardRemove
 import random
 
 
-TOKEN = '5074265255:AAFxaqNg_2hNkf-DflbwNXN4rZkMIKGw3QM'
+TOKEN = 'API'
 
 def zapis(update, context):
     try:
